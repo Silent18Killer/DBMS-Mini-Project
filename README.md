@@ -1,8 +1,10 @@
 # DBMS-Mini-Project
 
+
+
 # Relationship Schema
 <p align="center">
-  <img src="https://github.com/Silent18Killer/Python-Calculator-App/assets/139036518/1605f091-c85d-474d-ac89-42747d8589f5"/>
+  <img src="https://github.com/Silent18Killer/DBMS-Mini-Project/blob/main/Relationship%20Schema.png?raw=true"/>
 </p>
 
 # Programming tools used:-
