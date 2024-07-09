@@ -130,8 +130,16 @@ select * from tracking;
 ![image](https://github.com/Silent18Killer/DBMS-Mini-Project/assets/139036518/5b594ff3-e981-44e0-be29-a85ccb4aaabe)
 
 
+## Programming languages used:-
+
+<p>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
+</p>
+
 # Developer
   -  [@Silent18Killer](https://github.com/Silent18Killer)
   -  [@nrkkR](https://github.com/nrkkR)
   -  [@deepcodess](https://github.com/deepcodess)
-  
+  -  [@KomalAnand](https://github.com/KomalAnand)
+  -  [@CommanderBittu](https://github.com/CommanderBittu)
+  -  [@iamvibhav](https://github.com/iamvibhav)
