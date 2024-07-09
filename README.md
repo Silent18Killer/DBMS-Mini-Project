@@ -128,3 +128,10 @@ select * from tracking;
 ```
 
 ![image](https://github.com/Silent18Killer/DBMS-Mini-Project/assets/139036518/5b594ff3-e981-44e0-be29-a85ccb4aaabe)
+
+
+# Developer
+  -  [@Silent18Killer](https://github.com/Silent18Killer)
+  -  [@nrkkR](https://github.com/nrkkR)
+  -  [@deepcodess](https://github.com/deepcodess)
+  
