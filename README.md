@@ -2,7 +2,12 @@
 
 # Download SSMS
 
+```
 https://aka.ms/ssmsfullsetup
+```
+# Relation Schema
+
+<img src="Relationship Schema.png" width="900" height="600" align="center" />
 
 # Tables 
 
