@@ -1,5 +1,11 @@
 # DBMS-Mini-Project
 
+# Download SSMS
+
+https://aka.ms/ssmsfullsetup
+
+# Tables 
+
 ```
 select * from billinginformation;
 ```
